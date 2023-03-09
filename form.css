@@ -1,0 +1,67 @@
+.adresss {
+    margin: 0%;
+  }
+  
+  .h_3 {
+    color: brown;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  .submit {
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+  }
+  
+  .submit:hover {
+    background-color: darkgreen;
+  }
+  
+  .select_ {
+    background-color: green;
+    cursor: pointer;
+    width: 10%;
+    height: 10%;
+    text-align: center;
+  }
+  
+  .select_:hover {
+    background-color: crimson;
+  }
+  
+  
+  
+  .fname:hover {
+    transition: background-color 1s ease-out;
+    background-color: red;
+  
+    cursor: cell;
+  }
+  
+  .email{
+      background-color: chocolate;
+  }
+  
+  .email:hover {
+    width: 330px;
+    height: 24px;
+    background-color: aliceblue;
+    transition: background-color 1s ease-out;
+  
+    
+  }
+  
+  .lname {
+    background-color: aliceblue;
+    transition: background-color 1s ease-out;
+  }
+  
+  .lname:hover{
+      cursor: cell;
+  
+      background-color: teal;
+  }
+  
+  
